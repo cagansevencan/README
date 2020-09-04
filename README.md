@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/cagansevencan//"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
 
 
-<h3 align="center">👨🏻‍💻 Software Engineer in Bay Area, California☀️</h3>
+<h3 align="center">👨🏻‍💻 Software Engineer | Bay Area, California☀️</h3>
 
 
 - 🔭 I’m currently working on **devoloping a new feature📱**
