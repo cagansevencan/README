@@ -21,7 +21,7 @@
 
 
 
-### Spotify Playing 🎧
+#### Spotify Playing 🎧
 
 
 [![Spotify](https://novatorem-cagan.vercel.app/api/spotify)](https://open.spotify.com/user/1299726247?si=tqvjmmC6SgGmwdfJNgCJwA)
@@ -29,9 +29,9 @@
 
 <div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagansevencan&show_icons=true" alt="cagansevencan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cagansevencan&show_icons=true" alt="cagansevencan" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagansevencan&layout=compact&hide=html" alt="cagansevencan" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagansevencan&layout=compact&hide=html" alt="cagansevencan" /></p>
 
 </div>
