@@ -29,9 +29,9 @@
 
 <div align="center">
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cagansevencan&show_icons=true" alt="cagansevencan" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cagansevencan&show_icons=true" alt="cagansevencan" /></p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagansevencan&layout=compact&hide=html" alt="cagansevencan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagansevencan&layout=compact&hide=html" alt="cagansevencan" /></p>
 
 </div>
