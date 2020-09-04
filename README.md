@@ -18,6 +18,7 @@
 - ⚡ Fun fact **Cold brew enthusiast**
 
 ###Spotify Playing 🎧
+
 [![Spotify](https://novatorem-cagan.vercel.app/api/spotify)](https://open.spotify.com/user/1299726247?si=tqvjmmC6SgGmwdfJNgCJwA)
 
 
