@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **my startup experiences**
 
-- ⚡ Fun fact **Cold brew enthusiast**
+- ⚡ **Cold brew enthusiast**
 
 
 
