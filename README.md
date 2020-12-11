@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **devoloping a new feature📱**
 
-- 🌱 Learning **Next.js, React, Typescript, Databases**
+- 🌱 Learning **Full Stack Development, Algorithm Design**
 
 - 💬 Ask me about **my startup experiences**
 
