@@ -8,7 +8,6 @@
   <a href="https://www.facebook.com/cagansevencan/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png"></a>&nbsp;&nbsp;
 
 
-
 <h3 align="center">👨🏻‍💻 Software Engineer | Bay Area, California ☀️</h3>
 
 
