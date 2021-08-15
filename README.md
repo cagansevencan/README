@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on **devoloping a new feature📱**
+- 🔭 I’m currently working on **Leet Code**
 
 - 🌱 Learning **Full Stack Development, Algorithm Design**
 
