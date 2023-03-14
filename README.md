@@ -12,9 +12,9 @@
 
 
 
-- 🔭 I’m currently working on **Leet Code**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 Learning **Full Stack Development, Algorithm Design**
+- 🌱 Learning **Full Stack Development, Web Performance**
 
 - 💬 Ask me about **my startup experiences**
 
